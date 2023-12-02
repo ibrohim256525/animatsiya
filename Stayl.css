@@ -68,3 +68,7 @@ div{
         transform: translateX(300px);
     }
 }
+
+.hey {
+    color: red;
+}
